@@ -1,0 +1,7 @@
+streamlit
+openai-whisper
+transformers
+PyPDF2
+pydub
+torch
+sentencepiece

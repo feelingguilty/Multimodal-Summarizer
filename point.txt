@@ -1,0 +1,4 @@
+–Architected a multi-modal summarization tool in Python, integrating OpenAI’s Whisper for transcription
+and a quantized LaMini-Flan-T5 model for text summarization.
+–Engineered a unified pipeline to ingest and process text, PDF, audio, and video, reducing cross-media content
+analysis time by 80%.
